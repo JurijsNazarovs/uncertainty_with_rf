@@ -21,7 +21,7 @@ You can install required packages as `pip install -r requirements.txt`.
 *Note*: requirements.txt was not generated as a copy-slice from conda environment.
 
 In addition, you need to have `R` with following libraries: 
-`library(RandomFields)` and 'library(reticulate)`
+`library(RandomFields)` and `library(reticulate)`.
  
 
 # Running the script
