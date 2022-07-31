@@ -34,7 +34,7 @@ and do reverse warping.
 *Note*: for steps 2 and 3 you need to run the same code `main.py`,
 but in different configurations.
 
-## Parameters for the scripr
+## Parameters for the script
 There are 2 files, which provide all options to the code.
 1. `data_config.py` describes all information about data. If you would like to add 
 your own set, you can do it by adding extra `elif`, with corresponding name of your
